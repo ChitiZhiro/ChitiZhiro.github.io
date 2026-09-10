@@ -26,3 +26,4 @@ Projects will be added as I continue learning and building my portfolio.
 
 - LinkedIn: www.linkedin.com/in/sithirai-pandian-k15
 - Email: sithiraipandian.k@gmail.com
+- **Portfolio:** https://chitizhiro.github.io/
