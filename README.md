@@ -24,5 +24,5 @@ Projects will be added as I continue learning and building my portfolio.
 
 ## Contact
 
-- LinkedIn: Coming soon
+- LinkedIn: www.linkedin.com/in/sithirai-pandian-k15
 - Email: sithiraipandian.k@gmail.com
