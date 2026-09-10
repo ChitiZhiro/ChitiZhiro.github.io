@@ -1,16 +1,28 @@
-## Hi there 👋
+# SITHIRAI PANDIAN
 
-<!--
-**ChitiZhiro/ChitiZhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio and GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mechanical Engineering graduate with experience in B2B Sales Engineer from Saudi Arabia, currently developing my skills in Data Analytics.
+
+## Skills
+
+- Advanced Excel
+- SQL
+- Data Analysis
+
+## Currently Learning
+
+- Power BI
+- Python
+- R Programming
+
+## Projects
+
+Projects will be added as I continue learning and building my portfolio.
+
+## Contact
+
+- LinkedIn: Coming soon
+- Email: sithiraipandian.k@gmail.com
