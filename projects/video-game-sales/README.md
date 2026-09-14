@@ -23,3 +23,14 @@ An Excel-based data analysis project using video game sales data to explore sale
 - Data visualization
 - Interactive filtering
 - Excel data analysis
+
+## Screenshots
+
+### Sales Data
+![Sales Data](./Sales_data.png)
+
+### Pivot Chart
+![Pivot Chart](./Pivot_chart.png)
+
+### Interactive Slicer
+![Slicer](./Slicer.png)
