@@ -24,14 +24,3 @@ An Excel-based data analysis project using video game sales data to explore sale
 - Interactive filtering
 - Excel data analysis
 
-
-## Screenshots
-
-### Sales Data
-[![Sales Data](./screenshots/sales-data.png)](https://github.com/ChitiZhiro/ChitiZhiro.github.io/blob/main/projects/video-game-sales/Pivot_chart.png)
-
-### Pivot Chart
-![Pivot Chart](./screenshots/pivot-chart.png)
-
-### Interactive Slicer
-![Slicer](./screenshots/slicer.png)
