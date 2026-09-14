@@ -22,14 +22,14 @@ Mechanical Engineering graduate with experience in B2B Sales Engineer from Saudi
 
 ## EXCEL PROJECTS
 
-# Video Game Sales Analysis | Microsoft Excel
+**Video Game Sales Analysis | Microsoft Excel**
 
 • Analyzed video game sales data using Excel Tables, Filters, XLOOKUP, HSTACK, SUM,
 Pivot Tables, Pivot Charts and Slicers.
 
 • Created interactive analysis to identify sales trends and compare product performance.
 
-# Sales Quote & Pricing Tool | Microsoft Excel
+**Sales Quote & Pricing Tool | Microsoft Excel**
 
 • Developed an Excel-based quotation tool to calculate product pricing, markup,
 transportation costs, gross profit and GPM.
