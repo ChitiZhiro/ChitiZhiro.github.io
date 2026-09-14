@@ -30,7 +30,7 @@ An Excel-based data analysis project using video game sales data to explore sale
 ![Sales Data](./screenshots/sales-data.png)
 
 ### Pivot Chart
-![Pivot Chart](./screenshots/pivot-chart.png)
+projects/video-game-sales/Pivot_chart.png
 
 ### Interactive Slicer
 ![Slicer](./screenshots/slicer.png)
