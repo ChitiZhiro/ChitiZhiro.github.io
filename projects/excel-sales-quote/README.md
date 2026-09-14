@@ -23,3 +23,14 @@ An Excel-based sales quotation tool designed to prepare customer quotations and 
 - Data validation
 - Formatting
 - Data analysis
+
+## Screenshots
+
+### GPM Calculation
+![GPM Calculation](./GPM-calcu.png)
+
+### Price Calculation
+![Price Calculation](./Price-calcu.png)
+
+### Final Quote
+![Final Quote](./Quote-calcu.png)
