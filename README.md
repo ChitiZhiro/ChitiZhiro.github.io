@@ -10,8 +10,10 @@ Welcome to my personal portfolio and GitHub profile.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sithirai-pandian-k15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sithiraipandian.k@gmail.com) 
 
 # 💻 Tech Stack:
-Advance Excel. MS Outlook
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Advance Excel](https://img.shields.io/badge/Advanced_Excel-Skilled-217346) 
+![MS Outlook](https://img.shields.io/badge/MS_Outlook-Skilled-0078D4)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ChitiZhiro&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ChitiZhiro&theme=gotham&hide_border=false)<br/>
