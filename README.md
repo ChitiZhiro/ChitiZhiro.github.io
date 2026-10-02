@@ -16,15 +16,6 @@ Welcome to my personal portfolio and GitHub profile.
 ![MS Outlook](https://img.shields.io/badge/MS_Outlook-Skilled-0078D4)
 ![Python](https://img.shields.io/badge/Python-Currently_Learning-3776AB)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ChitiZhiro&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ChitiZhiro&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChitiZhiro&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=ChitiZhiro&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Projects
 
