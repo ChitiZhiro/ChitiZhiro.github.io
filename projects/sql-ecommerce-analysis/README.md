@@ -27,11 +27,11 @@ Applied SQL techniques to analyze sales trends, customer behavior, and product p
 
 ## Project Screenshots
 
-### 1. SQL Query Analysis
-![SQL Query Analysis](Screenshot/Screenshot%202026-10-03%20214605.png)
+### 1. SQL Database
+![SQL Database](Screenshot/Screenshot%202026-10-03%20214605.png)
 
 ### 2. Advanced SQL Queries
 ![Advanced SQL Queries](Screenshot/Screenshot%202026-10-13%20202644.png)
 
-### 3. SQL Query Results
-![Adv. SQL Query Results](Screenshot/Screenshot%202026-10-14%20224144.png)
+### 3. Advanced SQL Queries
+![Advanced SQL Queries](Screenshot/Screenshot%202026-10-14%20224144.png)
