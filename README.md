@@ -36,6 +36,7 @@ transportation costs, gross profit and GPM.
 • Used Excel formulas and functions to streamline quotation preparation.
 
 **E-COMMERCE SALES ANALYSIS | MySQL**
+
 • Analyzed sales revenue, customer spending, payment methods, repeat-customer rates, and product performance using MySQL.
   
 • Applied JOINs, aggregate functions, subqueries, CTEs, and window functions to identify sales trends and generate business insights.
