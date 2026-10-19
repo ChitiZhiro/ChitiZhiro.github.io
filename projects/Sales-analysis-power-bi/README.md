@@ -41,3 +41,4 @@ Practiced data visualization, report design, and interactive business analysis u
 ## How to View
 
 Download the `.pbix` file and open it using Power BI Desktop to explore the interactive report.
+
