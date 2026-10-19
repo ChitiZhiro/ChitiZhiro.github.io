@@ -23,16 +23,16 @@ This project uses Microsoft Power BI to analyze electrical and mechanical sales 
 ## Dashboard Preview
 
 ### Page 1
-![Page 1 - Electrical and Mechanical Sales](Screenshots/Screenshot%202026-10-19%20161537.png)
+![Page 1](./Screenshots/Screenshot%202026-10-19%20161537.png)
 
 ### Page 2
-![Page 2 - Electrical and Mechanical Sales](Screenshots/Screenshot%202026-10-19%20161517.png)
+![Page 2](./Screenshots/Screenshot%202026-10-19%20161517.png)
 
 ### Page 3
-![Page 3 - Electrical and Mechanical Sales](Screenshots/Screenshot%202026-10-19%20161551.png)
+![Page 3](./Screenshots/Screenshot%202026-10-19%20161551.png)
 
 ### Page 4
-![Page 4 - Electrical and Mechanical Sales](Screenshots/Screenshot%202026-10-19%20161613.png)
+![Page 4](./Screenshots/Screenshot%202026-10-19%20161613.png)
 
 ## Key Learnings
 
