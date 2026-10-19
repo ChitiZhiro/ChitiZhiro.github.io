@@ -28,11 +28,11 @@ This project uses Microsoft Power BI to analyze electrical and mechanical sales 
 ### Overview
 ![Overview](screenshots/Screenshot%202026-10-19%20161517.png)
 
-### Page 3
-![Page 3](screenshots/Screenshot%202026-10-19%20161551.png)
+### Quote Analysis
+![Quote Analysis](screenshots/Screenshot%202026-10-19%20161551.png)
 
-### Page 4
-![Page 4](screenshots/Screenshot%202026-10-19%20161613.png)
+### Products Analysis
+![Products Analysis](screenshots/Screenshot%202026-10-19%20161613.png)
 
 ## Key Learnings
 
