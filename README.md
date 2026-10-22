@@ -41,6 +41,13 @@ transportation costs, gross profit and GPM.
   
 • Applied JOINs, aggregate functions, subqueries, CTEs, and window functions to identify sales trends and generate business insights.
 
+**ELEC. & MECH. SALES ANALYSIS DASHBOARD | POWER BI**
+
+• Developed a four-page interactive Power BI dashboard to analyze sales, costs, profit, GPM%, quotations, and product performance.
+
+• Created KPI cards, company-level comparisons, category analysis, and payment-status visuals to support business performance monitoring.
+
+
 ## Contact
 
 - **LinkedIn**: www.linkedin.com/in/sithirai-pandian-k15
